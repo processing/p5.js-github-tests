@@ -1,1 +1,2 @@
-This repository exists for testing github collaboration or other features
+The purpose of this repository is to test github functions
+
